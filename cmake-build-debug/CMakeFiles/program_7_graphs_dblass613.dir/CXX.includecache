@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Zay/Documents/GitHub/program-7-graphs-dblass613/Graph.cpp
+Graph.h
+/Users/Zay/Documents/GitHub/program-7-graphs-dblass613/Graph.h
+iostream
+-
+
+/Users/Zay/Documents/GitHub/program-7-graphs-dblass613/Graph.h
+iostream
+-
+
+/Users/Zay/Documents/GitHub/program-7-graphs-dblass613/main.cpp
+iostream
+-
+Graph.h
+/Users/Zay/Documents/GitHub/program-7-graphs-dblass613/Graph.h
+

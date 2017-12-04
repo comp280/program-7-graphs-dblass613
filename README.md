@@ -33,7 +33,7 @@ Allowing the user the following options:
 - Option 4 – Print out the adjacency matrix (one row per line of output)
 - Option 5 - The user enters a vertex, and the program prints out all of the vertices that are adjacent to the specified vertex.
 - Option 6 - Print out the vertices using the depth first search. Prompt the user for a vertex to start the traversal.
-- Option 7 - Print out the vertices using the breadth first search. Prompt the user for a vertex to start the traversal.
+- Option 7 - Print out the vertices using the breadth first search.                                                                                                        Prompt the user for a vertex to start the traversal.
 - Option 8 - Print out whether or not the graph is connected
 - Option 9 - Print out whether or not the graph is a complete graph
 - Option 10 - If the graph is connected, find a minimum spanning tree and print out the list of edges for the minimum spanning tree.
