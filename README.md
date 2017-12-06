@@ -1,5 +1,14 @@
 # Assignment #7: Graphs
 
+### Student:  Dazhia Blassingame
+
+## Grading:
+    - Header and comments missing in main -12pnts
+    - Command 3 not working -3pnts
+    - Command 7 not working -3pnts
+    - Command 8 not working +5/10pnts
+     
+### Grade: 87%
 
 *Due **Monday, December 4th, 2017 @ 11:59PM EST***
 
